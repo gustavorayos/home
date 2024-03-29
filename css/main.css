@@ -3,8 +3,7 @@ a {
 }
 
 .cover_image {
-    /*background-image: url("https://image.ibb.co/dFJa00/home-cover-copy.jpg");*/
-    background-image: url("https://2.bp.blogspot.com/-FF3oie3C8pc/W9xvzTmgGXI/AAAAAAAANcg/UYbL4gX8kScRaW2h4SD2J0P3qsIS0I7KgCLcBGAs/s1600/Attach0_2%2Bcopy%2B2.jpg");
+    background-image: url("../photos/GR_SF_cropped2.jpeg");
 	height: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -13,11 +12,11 @@ a {
 
 .bg-transparent-main-color {
     background: rgba(0, 0, 0, 0.6);
-    color:#fff!important;
-  }
+    color:#fff!important;  
+}
 
-  .gr-button {
-    /*background-color: rgb(0, 0, 0);*/
+.gr-button {
+    background-color: rgb(0, 0, 0);
     border-radius: 0px;
     padding: 10px;
     display: inline-block;
