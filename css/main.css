@@ -3,7 +3,7 @@ a {
 }
 
 .cover_image {
-    background-image: url("../photos/IMG_3118_square.JPG);
+    background-image: url("../photos/IMG_3118_square.JPG");
 	height: 100%;
     background-position: center;
     background-repeat: no-repeat;
